@@ -9,6 +9,10 @@ __pycache__/
 # PyCharm
 .idea/
 
+# Lecture
+*.pdf
+*.PDF
+
 # Distribution / packaging
 .Python
 build/
